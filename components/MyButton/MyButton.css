@@ -1,0 +1,32 @@
+.MyButton {
+    background-color: rgb(0, 255, 21); /* Green */
+    border: none;
+    color: white;
+    padding: 7px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin:100px;
+  }
+
+  .MyButton1 {
+    background-color: rgb(255, 0, 0); /* Green */
+    border: none;
+    color: white;
+    padding: 7px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin:100px;
+  }
+
+.Inputy{
+  width:340px;
+  height:20px;
+  position:absolute;
+  left:104px;
+  bottom:880px;
+  text-align: center;
+}
